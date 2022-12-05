@@ -1,6 +1,6 @@
 Package: ggsector
 Title: Draw Sectors
-Version: 1.6.1
+Version: 1.6.5
 Authors@R: 
     person(given = "Pengdong",
            family = "Yan",
@@ -18,8 +18,8 @@ Imports: dplyr, magrittr, Matrix, prettydoc, rlang, Seurat, stats,
 VignetteBuilder: knitr
 BugReports: https://github.com/yanpd01/ggsector
 NeedsCompilation: no
-Packaged: 2022-11-28 13:56:36 UTC; yan
+Packaged: 2022-12-05 10:07:02 UTC; yan
 Author: Pengdong Yan [aut, cre, cph] (<https://orcid.org/0000-0002-2425-7930>)
 Maintainer: Pengdong Yan <yanpd01@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-11-28 15:00:02 UTC
+Date/Publication: 2022-12-05 10:30:02 UTC
